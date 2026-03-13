@@ -1,0 +1,6 @@
+{
+    "query_warehouse": "DEV_DATASCIENCE_WH",
+    "notebook_warehouse": "DEV_DATASCIENCE_WH",
+    "compute_pool": null,
+    "runtime_name": "SYSTEM$WAREHOUSE_RUNTIME"
+}
